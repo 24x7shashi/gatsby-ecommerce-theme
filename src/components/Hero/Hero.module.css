@@ -12,6 +12,7 @@
 }
 
 .content {
+    visibility: hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,6 +23,7 @@
 }
 
 .title {
+    visibility: hidden;
     font-size: 72px;
     line-height: 86px;
     font-weight: normal;
@@ -30,7 +32,7 @@
 }
 
 .subtitle {
-    visiblity: hidden;
+    visibility: hidden;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -38,6 +40,7 @@
 }
 
 .ctaButton {
+    visibility: hidden;
     width: 180px;
     
 }

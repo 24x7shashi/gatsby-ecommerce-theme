@@ -18,7 +18,7 @@ const Hero = (props) => {
   } = props;
   return (
     <div className={styles.root} style={{ backgroundImage: `url(${image})` }}>
-{/*<div className={styles.content} style={{ maxWidth: maxWidth }}>
+     <div className={styles.content} style={{ maxWidth: maxWidth }}>
         {header && <span className={styles.header}>{header}</span>}
         {title && <h2 className={styles.title}>{title}</h2>}
         {subtitle && <span className={styles.subtitle}>{subtitle}</span>}
@@ -36,7 +36,7 @@ const Hero = (props) => {
             {ctaLink}
           </Link>
         )}
-      </div>*/}
+      </div>
     </div>
   );
 };

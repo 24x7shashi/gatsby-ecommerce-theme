@@ -44,8 +44,8 @@
         "tags": ["shirt", "men"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
+        "name": "Charger",
+        "price": 250,
         "alt": "relaxed t shirt woman",
         "image": "/products/woman1.jpeg",
         "tags": ["woman"],

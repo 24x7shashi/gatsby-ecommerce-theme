@@ -16,7 +16,7 @@
         "tags": ["sample"],
         "gallery": [
             {"image": "/products/sc-226 front view.png", "alt": "pdp description 1"},
-            {"image": "/products/sc-226 back view.png", "alt": "pdp description 2"},
+            {"image": "/products//sc-226 back view.png", "alt": "pdp description 2"},
             {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
             {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
         ],

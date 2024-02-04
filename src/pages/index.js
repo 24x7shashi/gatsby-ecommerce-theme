@@ -81,7 +81,7 @@ const IndexPage = () => {
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
             title={`India's top brand`}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
+            description={`Shop now at wprollout electronic Store`}
             textLink={'shop now'}
             link={'/shop'}
           />

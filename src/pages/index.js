@@ -41,8 +41,8 @@ const IndexPage = () => {
         <p>
          India's fastest growing audio & wearables brand. 
           The most incredible range of wireless earphones, earbuds, headphones, smart watches, and home audio. 
-          From workouts to adventures, Robotek is your name of Confidence! {' '}
-          <span className={styles.gold}>matter design.</span>
+          From workouts to adventures,  {' '}
+          <span className={styles.gold}>Robotek is your name of Confidence!</span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}

@@ -39,13 +39,13 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-         India's fastest growing audio & wearables brand. 
+         India's fastest growing audio & charger brand. 
           The most incredible range of wireed earphones 
             {' '}
           <span className={styles.gold}> & </span>
         </p>
         <p>
-             charger<span className={styles.gold}>From workouts to adventures,</span> and{' '}
+             charger <span className={styles.gold}>From workouts to adventures,</span> and{' '}
           <span className={styles.gold}>Robotek is your name of Confidence!</span>
         </p>
       </div>

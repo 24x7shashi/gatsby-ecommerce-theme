@@ -13,7 +13,7 @@
         ],
         "sizeOptions": ["xs", "s", "m", "l", "xl"],
         "wishlist": true,
-        "tags": ["sample"],
+        "tags": ["charger"],
         "gallery": [
             {"image": "/products/sc-226 front view.png", "alt": "Robotek 2.4 A Mobile Charger"},
             {"image": "/products//sc-226 back view.png", "alt": "Robotek 2.4 A Mobile Charger"},

@@ -39,7 +39,9 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
+         India's fastest growing audio & wearables brand. 
+          The most incredible range of wireless earphones, earbuds, headphones, smart watches, and home audio. 
+          From workouts to adventures, Robotek is your name of Confidence! {' '}
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>

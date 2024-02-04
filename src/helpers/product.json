@@ -5,7 +5,7 @@
         "vendor": "Robotek",
         "price": 250,
         "alt": "Robotek 2.4 A Mobile Charger  (White)",
-        "image": "/collections/collection1.png",
+        "image": "/products/sc-226 front view.png",
         "colorOptions": [
             {"color": "#000000", "title": "Anthracite Melange"},
             {"color": "#4D34AE", "title": "Pale Purple"},
@@ -15,7 +15,7 @@
         "wishlist": true,
         "tags": ["sample"],
         "gallery": [
-            {"image": "/collections/collection1.png", "alt": "pdp description 1"},
+            {"image": "/products/sc-226 front view.png", "alt": "pdp description 1"},
             {"image": "/products/pdp2.jpeg", "alt": "pdp description 2"},
             {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
             {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}

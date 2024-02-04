@@ -40,13 +40,13 @@ const IndexPage = () => {
       <div className={styles.messageContainer}>
         <p>
          India's fastest growing audio & wearables brand. 
-          The most incredible range of wireless earphones, earbuds, headphones, smart watches, and home audio. 
-          From workouts to adventures,  {' '}
-          <span className={styles.gold}>Robotek is your name of Confidence!</span>
+          The most incredible range of wireed earphones 
+            {' '}
+          <span className={styles.gold}> & </span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+             charger<span className={styles.gold}>From workouts to adventures,</span> and{' '}
+          <span className={styles.gold}>Robotek is your name of Confidence!</span>
         </p>
       </div>
 

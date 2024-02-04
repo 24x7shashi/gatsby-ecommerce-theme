@@ -80,8 +80,8 @@ const IndexPage = () => {
             altImage={'highlight image'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
+            title={'India's trustable brand'}
+            description={`SHOP AT STORE`}
             textLink={'shop now'}
             link={'/shop'}
           />

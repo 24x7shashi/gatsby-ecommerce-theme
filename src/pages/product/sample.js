@@ -40,7 +40,7 @@ const ProductPage = (props) => {
             crumbs={[
               { link: '/', label: 'Home' },
               { label: 'Accessories', link: '/shop' },
-              { label: 'Sweater', link: '/shop' },
+              { label: 'Charger', link: '/shop' },
               { label: `${sampleProduct.name}` },
             ]}
           />

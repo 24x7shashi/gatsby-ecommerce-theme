@@ -28,7 +28,7 @@ const MiniCart = (props) => {
       <div className={styles.summaryContainer}>
         <div className={styles.summaryContent}>
           <div className={styles.totalContainer}>
-            <span>Total (USD)</span>
+            <span>Total (INR)</span>
             <span>
               <CurrencyFormatter amount={220} appendZero />
             </span>

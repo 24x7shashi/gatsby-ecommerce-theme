@@ -75,7 +75,7 @@
     },
     {
         "name": "Coming Soon",
-        "price": Nill,
+        "price": 250,
         "alt": "Coming Soon",
         "image": "/products/woman5.jpeg",
         "tags": ["woman"],
@@ -84,20 +84,20 @@
     },
     {
         "name": "Coming Soon",
-        "price": Nill,
+        "price": 250,
         "alt": "Coming Soon",
         "image": "/products/woman6.jpeg",
         "tags": ["woman"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
+        "name": "Coming Soon",
         "price": 15.90,
-        "alt": "relaxed t shirt woman",
+        "alt": "Coming Soon",
         "image": "/products/woman3.jpeg",
         "tags": ["woman"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
+        "name": "Coming Soon",
         "price": 15.90,
         "alt": "relaxed t shirt woman",
         "image": "/products/woman2.jpeg",
@@ -106,7 +106,7 @@
 
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
+        "name": "Coming Soon",
         "price": 21,
         "alt": "relaxed t shirt woman",
         "image": "/products/woman1.jpeg",
